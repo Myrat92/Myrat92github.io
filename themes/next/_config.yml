@@ -104,9 +104,9 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
+#scheme: Mist
 #scheme: Pisces
-#scheme: Gemini
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -208,7 +208,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
@@ -234,7 +234,7 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-reward_comment: Donate comment here
+reward_comment: 
 #wechatpay: /images/wechatpay.jpg
 alipay: /images/alipay.png
 #bitcoin: /images/bitcoin.png
@@ -345,7 +345,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics:2a93942e1d309e162b70e88e8f297b8a
+baidu_analytics: 2a93942e1d309e162b70e88e8f297b8a
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -361,9 +361,9 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cysRYmIFu
+  appkey: 822af38ff70b03ef66594047e4130e2a
 
 
 # Valine.
@@ -523,9 +523,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: tAvVohUFvsAHvJl38XA4crmw-gzGzoHsz
+  app_key: YLCYIdFgI4IuUTKzFXrcl3WM
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
