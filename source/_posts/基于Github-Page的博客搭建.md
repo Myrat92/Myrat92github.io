@@ -20,3 +20,14 @@ tags:
 
 [评论系统-畅言](http://changyan.kuaizhan.com)
 
+
+
+
+
+---
+
+
+
+- CNAME等文件在hexo deploy之后会被自动删除
+
+  在source/目录下新建CNAME文件
